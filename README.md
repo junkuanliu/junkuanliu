@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Junkuan (Benjamin) Liu 👋
 
-<!--
-**junkuanliu/junkuanliu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔬 Current Research
+**Research Intern @ LG AI Research** (July 2025 - Present)
+- Building large-scale training pipelines for UI agent models
+- Processing UI interaction samples across web, mobile, and desktop platforms
+- Developing quality assessment frameworks for multimodal datasets
 
-Here are some ideas to get you started:
+## 💻 Tech Stack
+Python • PyTorch • Transformers • RLHF/GRPO • Vision-Language Models
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📝 Blog & Writing
+[My website](https://junkuanliu.github.io/)
+
+## 📊 GitHub Stats
+![Junkuan's stats](https://github-readme-stats.vercel.app/api?username=junkuanliu&show_icons=true&theme=dark)
+
+## 📫 Connect with Me
+- Email: junkuan@umich.edu
+- LinkedIn: [linkedin.com/in/junkuan](https://linkedin.com/in/junkuan)
