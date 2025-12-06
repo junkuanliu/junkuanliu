@@ -2,7 +2,7 @@
 
 ## 🔬 Current Research
 **Research Intern @ LG AI Research** (July 2025 - Present)
-- Building large-scale training pipelines for UI agent models
+- Building large-scale data pipelines for UI agent models
 - Processing UI interaction samples across web, mobile, and desktop platforms
 - Developing quality assessment frameworks for multimodal datasets
 
