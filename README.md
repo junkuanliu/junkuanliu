@@ -7,7 +7,7 @@
 - Developing quality assessment frameworks for multimodal datasets
 
 ## 💻 Tech Stack
-Python • PyTorch • Transformers • RLHF/GRPO • Vision-Language Models
+Python • Typescript • GUI-Agent
 
 ## 📝 Blog & Writing
 [My website](https://junkuanliu.github.io/)
