@@ -10,7 +10,7 @@
 Python • Typescript • GUI-Agent
 
 ## 📝 Blog & Writing
-[My website](https://junkuanliu.github.io/)
+[My website](https://junkuanliu.com/profile)
 
 ## 📊 GitHub Stats
 ![Junkuan's stats](https://github-readme-stats.vercel.app/api?username=junkuanliu&show_icons=true&theme=dark)
