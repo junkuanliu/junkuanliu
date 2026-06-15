@@ -7,4 +7,4 @@
 [My website](https://junkuanliu.com/profile)
 
 ## 📚 Papers I Keep Coming Back To
-A small collection of papers I think are worth reading again and again → [paper-shelf](https://github.com/junkuanliu/Florilegium)
+A small collection of papers I think are worth reading again and again → [Florilegium](https://github.com/junkuanliu/c)
